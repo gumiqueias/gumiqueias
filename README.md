@@ -79,10 +79,13 @@
 </table>
    </div>
   
+   
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
   
 <div>  
   <h4 align="right"> Visitantes </h4>
-  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
+  <img align="right" src="https://komarev.com/ghpvc/?username=gumiqueias">
    </div> 
     
   ![Snake animation](https://github.com/TomasAlric/TomasAlric/blob/output/github-contribution-grid-snake.svg) 
