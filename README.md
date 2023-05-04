@@ -1,13 +1,18 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1>
 
   Eu chamo Gustavo, sou um desenvolvedor Java Jr. Full Stack. No momento curso o 8º semestre de Ciências da computação na [Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
+  <br>
   Em outubro de 2020 fui selecionado entre os 35 de 2.280 candidatos no Bootcamp da [Generation Brasil](https://brazil.generation.org) para Desenvolvedor Full Stack Java Jr., onde atuei no desenvolvimento de um site completo, utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros.
+  <br>
   Em Abril de 2023 fui aprovado para o bootcamp da [Campinho Digital](https://www.campinhodigital.org/) em AWS Cloud, Python e Linux.
   Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente.
-
+  <br>
   Atualmente trabalho como Desenvolvedor Full Stack no Itaú Unibanco, atuando com:
+  <br>
   Back End: Java, Testes unitários, Spring boot, e Git.
+  <br>
   Front End: Angular, Typescript, HTML, Testes com Jest, Microfrontend, API Gateway.
+  <br>
   Aws Cloud e Cloud privada. 
 
 
