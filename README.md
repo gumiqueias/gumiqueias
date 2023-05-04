@@ -1,7 +1,5 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1>
 
-![](https://komarev.com/ghpvc/?username=gumiqueias)
-
   Eu chamo Gustavo, sou um desenvolvedor Java Jr. Full Stack. No momento curso o 8º semestre de Ciências da computação na [Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
   <br>
   <br>
