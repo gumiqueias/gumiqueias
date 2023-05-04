@@ -5,23 +5,23 @@
    </div>
 <br>
 <br>
-  Eu chamo Gustavo, sou um desenvolvedor Java Jr. Full Stack. No momento curso o 8º semestre de Ciências da computação na [Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
+  My name is Gustavo, I'm a Java Jr. Full Stack. I am currently studying the 8th semester of Computer Science at [Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
   <br>
   <br>
-  Em outubro de 2020 fui selecionado entre os 35 de 2.280 candidatos no Bootcamp da [Generation Brasil](https://brazil.generation.org) para Desenvolvedor Full Stack Java Jr., onde atuei no desenvolvimento de um site completo, utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros.
+  In October 2020 I was selected among the 35 out of 2,280 candidates in the [Generation Brasil](https://brazil.generation.org) Bootcamp for Full Stack Java Jr. Developer, where I worked on the development of a complete website, using Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ among others.
   <br>
   <br>
-  Em Abril de 2023 fui aprovado para o bootcamp da [Campinho Digital](https://www.campinhodigital.org/) em AWS Cloud, Python e Linux.
-  Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente.
+  In April 2023 I was approved for the [Campinho Digital](https://www.campinhodigital.org/) bootcamp in AWS Cloud, Python and Linux.
+  Committed to evolving and collaborating in the development of people and projects, constantly learning new technologies by taking courses and practical challenges.
   <br>
   <br>
-  Atualmente trabalho como Desenvolvedor Full Stack no Itaú Unibanco, atuando com:
+  I currently work as a Full Stack Developer at Itaú Unibanco, working with:
   <br>
-  Back End: Java, Testes unitários, Spring boot, e Git.
+  Back End: Java, Unit Testing, Spring boot, and Git.
   <br>
-  Front End: Angular, Typescript, HTML, Testes com Jest, Microfrontend, API Gateway.
+  Front End: Angular, Typescript, HTML, Tests with Jest, Microfrontend, API Gateway.
   <br>
-  Aws Cloud e Cloud privada.
+  AWS Cloud and Private Cloud.
 
   <br>
 
@@ -32,7 +32,7 @@
   </div>
   
 <div>
-  <h3 align="left">Linguagens e Ferramentas:</h3>
+  <h3 align="left">Languages and Tools:</h3>
 </div>
 <div>
 <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/>
@@ -60,7 +60,7 @@
 ##
 
  <div>
-  <h3 align="left">Siga-me nas redes sociais :alien: </h3>
+  <h3 align="left">Follow me on social media: </h3>
 <p align="left">
   
  <a href="https://www.linkedin.com/in/gumiqueias/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
