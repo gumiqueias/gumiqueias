@@ -1,9 +1,10 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1>
 
 <div>  
-  <img align="right" src="https://komarev.com/ghpvc/?username=gumiqueias">
+  <img align="left" src="https://komarev.com/ghpvc/?username=gumiqueias">
    </div>
-
+<br>
+<br>
   Eu chamo Gustavo, sou um desenvolvedor Java Jr. Full Stack. No momento curso o 8º semestre de Ciências da computação na [Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
   <br>
   <br>
