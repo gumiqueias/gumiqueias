@@ -1,40 +1,29 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1>
 
-<div>
+<div>  
   <img align="center" src="https://komarev.com/ghpvc/?username=gumiqueias">
-</div>
+   </div>
 <br>
 <br>
-Me chamo Gustavo, sou um desenvolvedor Java Full Stack. No momento curso o 8º semestre de Ciências da computação na <a
-  href="https://loja.anhembionline.com.br/" target="_blank">Universidade Anhembi Morumbi</a>.
-<br>
-<br>
-Em outubro de 2020 fui selecionado entre os 35 de 2.280 candidatos no Bootcamp da <a
-  href="https://brazil.generation.org" target="_blank">Generation
-  Brasil</a> para Desenvolvedor Full Stack Java Jr., onde atuei no desenvolvimento de um site
-completo, utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros.
-<br>
-<br>
-Em Abril de 2023 fui aprovado para o bootcamp da <a href="https://www.campinhodigital.org" target="_blank">Campinho
-  Digital</a> em AWS Cloud, Python e Linux.
-Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando
-cursos e desafios práticos constantemente.
-<br>
-<br>
-Em Agosto de 2023 tive a honra de participar do curso de Python e Django na <a href="https://www.42sp.org.br/"
-  target="_blank">42 São Paulo</a> onde tive a oportunidade de explorar o mundo da programação e conhecer pessoas que
-contribuiram para o meu crescimento pessoal e profissional.
-<br>
-<br>
-Atualmente trabalho como Desenvolvedor Full Stack no Itaú Unibanco, atuando com:
-<br>
-Back End: Java, Testes unitários, Spring boot, e Git.
-<br>
-Front End: Angular, Typescript, HTML, Testes com Jest, Microfrontend, API Gateway.
-<br>
-Aws Cloud e Cloud privada.
+  Me chamo Gustavo, sou um desenvolvedor Java Full Stack. No momento curso o 8º semestre de Ciências da computação na [Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
+  <br>
+  <br>
+  Em outubro de 2020 fui selecionado entre os 35 de 2.280 candidatos no Bootcamp da [Generation Brasil](https://brazil.generation.org) para Desenvolvedor Full Stack Java Jr., onde atuei no desenvolvimento de um site completo, utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros.
+  <br>
+  <br>
+  Em Abril de 2023 fui aprovado para o bootcamp da [Campinho Digital](https://www.campinhodigital.org/) em AWS Cloud, Python e Linux.
+  Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente.
+  <br>
+  <br>
+  Atualmente trabalho como Desenvolvedor Full Stack no Itaú Unibanco, atuando com:
+  <br>
+  Back End: Java, Testes unitários, Spring boot, e Git.
+  <br>
+  Front End: Angular, Typescript, HTML, Testes com Jest, Microfrontend, API Gateway.
+  <br>
+  Aws Cloud e Cloud privada.
 
-<br>
+  <br>
   <br>
 
   <div>
@@ -75,10 +64,10 @@ Aws Cloud e Cloud privada.
   <h3 align="left">Siga-me nas redes sociais :alien: </h3>
 <p align="left">
   
- <a href="https://www.linkedin.com/in/gumiqueias/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
-<a href="https://api.whatsapp.com/send?phone=5511971618647" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
+ <a href="https://www.linkedin.com/in/gumiqueias/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+<a href="https://api.whatsapp.com/send?phone=5511971618647" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" width="110" align ="center">](mailto:gumiqueias@hotmail.com)
-<a href="https://discord.gg/gumiqueias#1604" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="110" /></a>
+<a href="https://discord.gg/gumiqueias#1604" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="110" /></a>
   </div>
     <div>
     <table align="right">
