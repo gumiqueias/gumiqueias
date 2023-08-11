@@ -5,8 +5,8 @@
 </div>
 <br>
 <br>
-Me chamo Gustavo, sou um desenvolvedor Java Full Stack. No momento curso o 8º semestre de Ciências da computação na
-[Universidade Anhembi Morumbi](https://loja.anhembionline.com.br/).
+Me chamo Gustavo, sou um desenvolvedor Java Full Stack. No momento curso o 8º semestre de Ciências da computação na <a
+  href="https://loja.anhembionline.com.br/" target="_blank">Universidade Anhembi Morumbi</a>.
 <br>
 <br>
 Em outubro de 2020 fui selecionado entre os 35 de 2.280 candidatos no Bootcamp da <a
